@@ -1,5 +1,7 @@
 # ProjetAL-KJ
 
-commands setup:
+libs to install in command line:
 
-pip install requests
+ python -m pip install requests
+ pip install scipy-stack
+ pip install pillow
